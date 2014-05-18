@@ -7,6 +7,7 @@ Wikipediaの記事内のリンクをランダムに飛んで，キーワード�
 ## 実行例
 
 ```
+% bundle install
 % bundle exec ruby walk.rb 'ジョージ・ルーカス'
 E.T.
 セント・オブ・ウーマン/夢の香り
